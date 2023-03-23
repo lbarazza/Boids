@@ -244,7 +244,7 @@ function plot!(flock::Flock)
 end
 
 
-#bitches = [Boid(2*(rand(2).-0.5), 2*(rand(2).-0.5)) for _ in 1:30]
+#itches = [Boid(2*(rand(2).-0.5), 2*(rand(2).-0.5)) for _ in 1:30]
 flock1 = Flock(200, :white) #200
 flock2 = Flock(200, :green)
 
