@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/lbarazza/Boids/blob/main/media/boids.gif "Flockers gif")
 
-*Simulation of two storms of birds with boids. The two storms are represented by the two different colors. The white birds are scared of the green ones so when they come near a white bird, they tend to fly away.*
+*Simulation of two storms of birds with boids. The two storms are represented by the two different colors. The white birds are scared of the green ones. So, when they come near a white bird, they tend to fly away.*
 
 ## Boids Simulation
 
