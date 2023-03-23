@@ -13,7 +13,7 @@ Every bird has to follow three very simple rules:
 2. Alignment: steer towards the average heading of local flockmates
 3. Cohesion: steer to move toward the average position of local flockmates
 
-The following of these three simple rules results in a large scale emergent flock-like behaviour.
+Interestingly, the following of these three simple rules results in a large scale emergent flock-like behaviour.
 
 ## Further reading
 
