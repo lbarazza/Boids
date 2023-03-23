@@ -1,3 +1,3 @@
 # Boids
 
-![alt text](https://github.com/lbarazza/Boids/blob/main/media/flockers.gif "Flockers gif")
+![alt text](https://github.com/lbarazza/Boids/blob/main/media/boids.gif "Flockers gif")
